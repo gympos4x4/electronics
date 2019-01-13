@@ -9781,7 +9781,7 @@ Sensors</text>
 <text x="-127" y="-101.6" size="12.7" layer="94">Columba</text>
 <text x="-127" y="-121.92" size="12.7" layer="94">VCU V4</text>
 <text x="-127" y="-134.62" size="7.62" layer="94">Revision 1</text>
-<text x="-48.26" y="-99.06" size="7.62" layer="94">Designed by:</text>
+<text x="-48.26" y="-99.06" size="7.62" layer="94">Designer(s):</text>
 <text x="-48.26" y="-119.38" size="7.62" layer="94">Martin Hrehor</text>
 <wire x1="-132.08" y1="-83.82" x2="-53.34" y2="-83.82" width="0.1524" layer="97"/>
 <wire x1="-53.34" y1="-83.82" x2="-53.34" y2="-124.46" width="0.1524" layer="97"/>
@@ -11135,7 +11135,7 @@ Sensors</text>
 <wire x1="-147.32" y1="142.24" x2="-149.86" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="-149.86" y1="142.24" x2="-157.48" y2="142.24" width="0.1524" layer="91"/>
 <junction x="-149.86" y="142.24"/>
-<label x="-157.48" y="142.24" size="1.778" layer="95" xref="yes"/>
+<label x="-157.48" y="142.24" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="RXD2" class="0">
