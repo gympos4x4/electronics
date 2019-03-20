@@ -2698,9 +2698,15 @@ part number 2062-2P from STA</description>
 <instance part="P+16" gate="VCC" x="231.14" y="58.42"/>
 <instance part="U1" gate="G$1" x="96.52" y="15.24"/>
 <instance part="JL1" gate="G$1" x="71.12" y="58.42"/>
-<instance part="SVETLA" gate="A" x="-12.7" y="-12.7"/>
+<instance part="SVETLA" gate="A" x="-12.7" y="-12.7" smashed="yes">
+<attribute name="NAME" x="-19.05" y="-4.445" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-19.05" y="-20.32" size="1.778" layer="96"/>
+</instance>
 <instance part="Q3" gate="G$1" x="30.48" y="-38.1" rot="MR270"/>
-<instance part="Q1" gate="G$1" x="30.48" y="-25.4" rot="MR270"/>
+<instance part="Q1" gate="G$1" x="30.48" y="-25.4" smashed="yes" rot="MR270">
+<attribute name="NAME" x="29.845" y="-30.48" size="1.27" layer="95" rot="MR270"/>
+<attribute name="VALUE" x="31.75" y="-30.48" size="1.27" layer="96" rot="MR270"/>
+</instance>
 <instance part="Q4" gate="G$1" x="30.48" y="-53.34" rot="MR270"/>
 <instance part="Q5" gate="G$1" x="30.48" y="-66.04" rot="MR270"/>
 <instance part="R5" gate="G$1" x="114.3" y="-45.72" rot="R270"/>
