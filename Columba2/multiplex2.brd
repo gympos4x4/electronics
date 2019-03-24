@@ -188,13 +188,19 @@
 <wire x1="34.905" y1="68.199" x2="34.905" y2="103.302" width="0.254" layer="20"/>
 <wire x1="34.905" y1="103.302" x2="-2.794" y2="103.302" width="0.254" layer="20"/>
 <wire x1="-2.794" y1="103.302" x2="-2.794" y2="68.199" width="0.254" layer="20"/>
-<text x="22.3012" y="70.993" size="0.6096" layer="1">Columba Racing
-Designer: Richard Ciglansky
-Version 1.0</text>
 <hole x="0" y="101" drill="1"/>
 <hole x="32" y="101" drill="1"/>
 <hole x="0" y="71" drill="1"/>
-<hole x="32" y="71" drill="1"/>
+<text x="17.6784" y="69.6722" size="0.6096" layer="25">Columba Racing
+Designer: Richard Ciglansky
+Version 1.0</text>
+<hole x="32.004" y="70.993" drill="1"/>
+<wire x1="17.5768" y1="72.0344" x2="17.5768" y2="72.009" width="0.1524" layer="25"/>
+<wire x1="17.5768" y1="72.009" x2="17.5768" y2="69.4944" width="0.1524" layer="25"/>
+<wire x1="17.5768" y1="69.4944" x2="28.9052" y2="69.4944" width="0.1524" layer="25"/>
+<wire x1="28.9052" y1="69.4944" x2="28.9052" y2="72.2376" width="0.1524" layer="25"/>
+<wire x1="28.9052" y1="72.2376" x2="17.5768" y2="72.2376" width="0.1524" layer="25"/>
+<wire x1="17.5768" y1="72.2376" x2="17.5768" y2="72.0344" width="0.1524" layer="25"/>
 </plain>
 <libraries>
 <library name="OPL_Capacitor" urn="urn:adsk.eagle:library:8004261">
